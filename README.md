@@ -10,4 +10,4 @@ Turns out chains shrug it off and independent shops can't, and the blocked sale 
 
 Case studies are US, the cost and tax modelling is based on bakeries in France, the waste figures are global.
 
-Read it here: https://purpledrizzle.github.io/tgtg
+Read it here: https://purpledrizzle.github.io/TGTG
